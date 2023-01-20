@@ -7,3 +7,6 @@ Add the body content of your email to email_content.txt
 Make sure that you do not add your greeting to email_content.txt as it needs to dynamically update in the script.
 
 The only requirement is the Python Pandas library.
+
+# Usage
+run the python script
